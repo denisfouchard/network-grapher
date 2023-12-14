@@ -1,0 +1,24 @@
+# macOS files
+.DS_Store
+
+# data files
+*.csv
+*.json
+
+# Notebook files
+.ipynb_checkpoints/
+*.ipynb
+
+# vscode
+.vscode/
+
+# env
+env/
+.env 
+
+# img files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
